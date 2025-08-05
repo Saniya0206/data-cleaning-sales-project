@@ -6,12 +6,19 @@ To clean and prepare a messy sales dataset for meaningful analysis by handling m
 Project overview:
 
 ✅ Removed blank rows and columns
+
 ✅ Handled missing values (Unknown, medians, etc.)
+
 ✅ Removed duplicates
+
 ✅ Standardized text entries (proper case, trimmed spaces)
+
 ✅ Converted date formats
+
 ✅ Converted text to numbers
+
 ✅ Detected and treated outliers using IQR method
+
 ✅ Applied filters and formatting
 
 📁 File:
