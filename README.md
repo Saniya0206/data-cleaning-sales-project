@@ -1,4 +1,5 @@
 Data Cleaning & Preprocessing Project (Excel)
+
 This project demonstrates the end-to-end data cleaning and preprocessing process using Microsoft Excel on a raw Sales Dataset containing 1000 records
 Objective:
 To clean and prepare a messy sales dataset for meaningful analysis by handling missing values, removing inconsistencies, and ensuring data integrity using Excel techniques.
